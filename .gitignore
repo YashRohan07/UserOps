@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+dist/
+.vite/
+
+# .NET / Visual Studio
+bin/
+obj/
+*.user
+*.vs
+*.db
+
+# Logs
+*.log

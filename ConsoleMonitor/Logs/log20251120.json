@@ -1,0 +1,302 @@
+{"@t":"2025-11-20T14:20:44.7599855Z","@mt":"ConsoleMonitor started successfully."}
+{"@t":"2025-11-20T14:20:44.9072476Z","@mt":"Monitoring Web API..."}
+{"@t":"2025-11-20T14:20:44.9110483Z","@mt":"Checking service... attempt {Attempt}","Attempt":1}
+{"@t":"2025-11-20T14:20:45.9563414Z","@mt":"Checking service... attempt {Attempt}","Attempt":2}
+{"@t":"2025-11-20T14:20:47.0224445Z","@mt":"Checking service... attempt {Attempt}","Attempt":3}
+{"@t":"2025-11-20T14:20:48.0251354Z","@mt":"Checking service... attempt {Attempt}","Attempt":4}
+{"@t":"2025-11-20T14:20:49.0466921Z","@mt":"Checking service... attempt {Attempt}","Attempt":5}
+{"@t":"2025-11-20T14:20:50.0693005Z","@mt":"ConsoleMonitor finished."}
+{"@t":"2025-11-20T14:29:02.1909971Z","@mt":"ConsoleMonitor started successfully."}
+{"@t":"2025-11-20T14:29:12.3557357Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":1,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:29:22.3906751Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.08"],"Index":2,"CPU":0.07771855063264342,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:29:32.3989615Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":3,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:29:42.4101333Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":4,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:29:52.4237819Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":5,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:30:02.4379181Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":6,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:30:12.4502952Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":7,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:30:22.4665170Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":8,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:30:32.4731221Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":9,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:30:42.4893734Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":10,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:30:52.4985456Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.04"],"Index":11,"CPU":0.039026703146805626,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:31:02.5134821Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":12,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:31:12.5276034Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":13,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:31:22.5437984Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":14,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:31:32.5605375Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":15,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:31:42.5759617Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":16,"CPU":0,"UsedMemory":8671232}
+{"@t":"2025-11-20T14:32:00.6442404Z","@mt":"ConsoleMonitor started successfully."}
+{"@t":"2025-11-20T14:32:10.7793165Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":1,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:32:20.8280431Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.08"],"Index":2,"CPU":0.07761057306246433,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:32:30.8346387Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":3,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:32:40.8468071Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":4,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:32:50.8624490Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":5,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:33:00.8748245Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":6,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:33:10.8858820Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":7,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:33:20.8957446Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":8,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:33:30.9078832Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":9,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:33:40.9161191Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":10,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:33:50.9176982Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":11,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:34:00.9233466Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":12,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:34:10.9359757Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.04"],"Index":13,"CPU":0.03901325045289328,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:34:20.9556680Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":14,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:34:30.9568172Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":15,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:34:40.9604990Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":16,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:34:50.9726141Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.04"],"Index":17,"CPU":0.03901433797020592,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:35:00.9868810Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":18,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:35:10.9974925Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":19,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:35:21.0136673Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":20,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:35:31.0238754Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":21,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:35:41.0267059Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.04"],"Index":22,"CPU":0.039051443364840115,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:35:51.0289730Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":23,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:36:01.0328783Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":24,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:36:11.0341375Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":25,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:36:21.0386650Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":26,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:36:31.0513553Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":27,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:36:41.0667144Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":28,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:36:51.0804025Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":29,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:37:01.0896164Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":30,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:37:11.0925328Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.23"],"Index":31,"CPU":0.23431154609020333,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:37:21.1021521Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.08"],"Index":32,"CPU":0.07804812493837944,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:37:31.1034468Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":33,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:37:41.1161621Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":34,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:37:51.1198773Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":35,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:38:01.1338720Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":36,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:38:11.1375740Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":37,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:38:21.1535833Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":38,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:38:31.1542345Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":39,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:38:41.1669627Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":40,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:38:51.1679942Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":41,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:39:01.1739182Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":42,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:39:11.1853798Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":43,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:39:21.1858057Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":44,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:39:31.1895734Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":45,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:39:41.2046763Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":46,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:39:51.2148085Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":47,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:40:01.2163836Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":48,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:40:11.2267399Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":49,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:40:21.2430561Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":50,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:40:31.2480912Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":51,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:40:41.4722187Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":52,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:40:51.4785947Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":53,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:41:01.4802784Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":54,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:41:11.4834494Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":55,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:41:21.5471933Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":56,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:41:31.5525267Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":57,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:41:41.5560416Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":58,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:41:51.5718288Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":59,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:42:01.5736534Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":60,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:42:11.5871529Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.12"],"Index":61,"CPU":0.11703233034416657,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:42:21.5914288Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.12"],"Index":62,"CPU":0.11713444629523949,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:42:31.6118099Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":63,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:42:41.6267229Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":64,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:42:51.6357872Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":65,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:43:01.6639102Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":66,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:43:11.6776837Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":67,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:43:21.6912459Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":68,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:43:31.7345236Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":69,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:43:41.7448826Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":70,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:43:51.7541875Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":71,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:44:01.7639264Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":72,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:44:11.7791654Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":73,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:44:21.7849614Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":74,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:44:31.7954390Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":75,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:44:41.8051256Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":76,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:44:51.8589897Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":77,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:45:01.8709888Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":78,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:45:11.8821940Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":79,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:45:21.8963649Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":80,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:45:31.9179868Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":81,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:45:41.9339906Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.47"],"Index":82,"CPU":0.46800092240361,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:45:51.9609371Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":83,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:46:01.9761824Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":84,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:46:11.9805946Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":85,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:46:21.9961611Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":86,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:46:31.9987178Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":87,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:46:42.0012143Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":88,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:46:52.0144602Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":89,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:47:02.0202601Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":90,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:47:12.0360143Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":91,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:47:22.0622099Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":92,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:47:32.0720453Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":93,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:47:42.0791352Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":94,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:47:52.0920178Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":95,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:48:02.0927005Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":96,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:48:12.0967383Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":97,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:48:22.1169594Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":98,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:48:32.1379098Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":99,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:48:42.1470056Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":100,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:48:52.1477814Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":101,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:49:02.1483103Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":102,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:49:12.1583701Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":103,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:49:22.1615150Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":104,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:49:32.1760086Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":105,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:49:42.1815970Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":106,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:49:52.1869460Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":107,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:50:02.1896324Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":108,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:50:12.1909502Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":109,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:50:22.2063194Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":110,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:50:32.2140278Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":111,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:50:42.2294272Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":112,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:50:52.2396086Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":113,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:51:02.2475911Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":114,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:51:12.2621556Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":115,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:51:22.2815665Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":116,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:51:32.2837922Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":117,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:51:42.2849657Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":118,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:51:52.3005613Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":119,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:52:02.3012998Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":120,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:52:12.3031635Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":121,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:52:22.3277065Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":122,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:52:32.3405348Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":123,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:52:42.3583292Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":124,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:52:52.3746563Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":125,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:53:02.3900523Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":126,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:53:12.3919750Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":127,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:53:22.3945264Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":128,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:53:32.4067809Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":129,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:53:42.4141192Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":130,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:53:52.4309488Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":131,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:54:02.4316476Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":132,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:54:12.4328045Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":133,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:54:22.4527748Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":134,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:54:32.4541235Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":135,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:54:42.4556861Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":136,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:54:52.4627150Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":137,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:55:02.4709257Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":138,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:55:12.4756981Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":139,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:55:22.4790083Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":140,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:55:32.4922392Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":141,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:55:42.5074048Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":142,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:55:52.5121490Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":143,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:56:02.5230427Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":144,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:56:12.5294062Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":145,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:56:22.5301762Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":146,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:56:32.5307576Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":147,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:56:42.5462168Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":148,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:56:52.5561026Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":149,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:57:02.5745085Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":150,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:57:12.6225664Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":151,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:57:22.6285013Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":152,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:57:32.6839013Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":153,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:57:42.6859240Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":154,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:57:52.6880948Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":155,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:58:02.6913680Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":156,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:58:12.6919805Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":157,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:58:22.6949501Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":158,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:58:32.6989176Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":159,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:58:42.7152653Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":160,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:58:52.7291508Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":161,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:59:02.7324342Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":162,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:59:12.7488586Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":163,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:59:22.7633347Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":164,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:59:32.7720289Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":165,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:59:42.7765346Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":166,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T14:59:52.8006524Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":167,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:00:02.8032751Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":168,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:00:12.8137297Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":169,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:00:22.8269780Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":170,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:00:32.8372513Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":171,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:00:42.8434580Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":172,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:00:52.8646427Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":173,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:01:02.8785719Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":174,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:01:12.8810915Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":175,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:01:22.8953164Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":176,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:01:32.9010403Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":177,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:01:42.9172168Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":178,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:01:52.9300160Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":179,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:02:02.9415808Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":180,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:02:12.9505406Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":181,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:02:22.9517193Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":182,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:02:32.9576933Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.35"],"Index":183,"CPU":0.35135254577274805,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:02:42.9702368Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.04"],"Index":184,"CPU":0.03901356645400374,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:02:52.9743291Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":185,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:03:02.9836895Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":186,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:03:12.9896971Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":187,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:03:22.9938244Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":188,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:03:33.0255060Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":189,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:03:43.0339925Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":190,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:03:53.0436584Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":191,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:04:03.0472185Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":192,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:04:13.0540071Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":193,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:04:23.0617867Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":194,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:04:33.0667266Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":195,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:04:43.0768192Z","@mt":"System Health Check {Index} | CPU Usage: {CPU:F2}% | Memory Used: {UsedMemory} bytes","@r":["0.00"],"Index":196,"CPU":0,"UsedMemory":8732672}
+{"@t":"2025-11-20T15:06:03.1294746Z","@mt":"ConsoleMonitor started successfully."}
+{"@t":"2025-11-20T15:06:09.8282401Z","@mt":"System Metrics: CPU={Cpu}% | Available Memory={Memory}MB","Cpu":0,"Memory":3506}
+{"@t":"2025-11-20T15:06:19.8637741Z","@mt":"System Metrics: CPU={Cpu}% | Available Memory={Memory}MB","Cpu":7.645794,"Memory":3501}
+{"@t":"2025-11-20T15:06:29.8739990Z","@mt":"System Metrics: CPU={Cpu}% | Available Memory={Memory}MB","Cpu":8.650991,"Memory":3534}
+{"@t":"2025-11-20T15:06:39.8857896Z","@mt":"System Metrics: CPU={Cpu}% | Available Memory={Memory}MB","Cpu":11.319967,"Memory":3545}
+{"@t":"2025-11-20T15:06:49.8996691Z","@mt":"System Metrics: CPU={Cpu}% | Available Memory={Memory}MB","Cpu":14.21941,"Memory":3546}
+{"@t":"2025-11-20T15:06:59.9242930Z","@mt":"System Metrics: CPU={Cpu}% | Available Memory={Memory}MB","Cpu":4.8670573,"Memory":3533}
+{"@t":"2025-11-20T15:07:09.9414685Z","@mt":"System Metrics: CPU={Cpu}% | Available Memory={Memory}MB","Cpu":10.316622,"Memory":3530}
+{"@t":"2025-11-20T15:07:19.9509797Z","@mt":"System Metrics: CPU={Cpu}% | Available Memory={Memory}MB","Cpu":17.705708,"Memory":3537}
+{"@t":"2025-11-20T15:07:31.9880852Z","@mt":"System Metrics: CPU={Cpu}% | Available Memory={Memory}MB","Cpu":11.436976,"Memory":3540}
+{"@t":"2025-11-20T15:07:42.0101984Z","@mt":"System Metrics: CPU={Cpu}% | Available Memory={Memory}MB","Cpu":20.134283,"Memory":3548}
+{"@t":"2025-11-20T15:12:27.2164105Z","@mt":"ConsoleMonitor started successfully."}
+{"@t":"2025-11-20T15:12:32.6482677Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":0,"Memory":3492}
+{"@t":"2025-11-20T15:12:42.6802447Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":15.7,"Memory":3502}
+{"@t":"2025-11-20T15:12:52.7006932Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":7.85,"Memory":3512}
+{"@t":"2025-11-20T15:13:02.7272919Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":14.23,"Memory":3506}
+{"@t":"2025-11-20T15:13:12.7429735Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":21.75,"Memory":3514}
+{"@t":"2025-11-20T15:13:22.7543192Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":45.14,"Memory":3387}
+{"@t":"2025-11-20T15:13:32.7691803Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":43.63,"Memory":3274}
+{"@t":"2025-11-20T15:13:42.7740357Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":16.49,"Memory":3650}
+{"@t":"2025-11-20T15:13:52.7892048Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":20.9,"Memory":3629}
+{"@t":"2025-11-20T15:14:02.8038428Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":8.69,"Memory":3629}
+{"@t":"2025-11-20T15:14:12.8175349Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":6.57,"Memory":3662}
+{"@t":"2025-11-20T15:14:22.8325614Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":8.31,"Memory":3740}
+{"@t":"2025-11-20T15:14:32.8456891Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":11.99,"Memory":3744}
+{"@t":"2025-11-20T15:14:42.8585881Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":6.49,"Memory":3751}
+{"@t":"2025-11-20T15:14:52.8704692Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":14.75,"Memory":3751}
+{"@t":"2025-11-20T15:15:02.8774048Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":16.54,"Memory":3738}
+{"@t":"2025-11-20T15:15:12.8866393Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":27.76,"Memory":3854}
+{"@t":"2025-11-20T15:15:22.9044667Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":35.39,"Memory":3749}
+{"@t":"2025-11-20T15:15:32.9306072Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":37.31,"Memory":3672}
+{"@t":"2025-11-20T15:15:42.9453504Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":14.34,"Memory":3744}
+{"@t":"2025-11-20T15:15:52.9623968Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":23.73,"Memory":3772}
+{"@t":"2025-11-20T15:16:02.9781461Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":51.29,"Memory":3675}
+{"@t":"2025-11-20T15:16:12.9884655Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":28.2,"Memory":3647}
+{"@t":"2025-11-20T15:16:23.0036622Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":7.37,"Memory":3650}
+{"@t":"2025-11-20T15:16:33.0094432Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":40.11,"Memory":3705}
+{"@t":"2025-11-20T15:16:43.0269021Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":38.97,"Memory":3785}
+{"@t":"2025-11-20T15:17:52.5419531Z","@mt":"ConsoleMonitor started successfully."}
+{"@t":"2025-11-20T15:17:58.3944759Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":0,"Memory":3674}
+{"@t":"2025-11-20T15:18:08.4283055Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":8.54,"Memory":3680}
+{"@t":"2025-11-20T15:18:18.4405072Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":14.95,"Memory":3682}
+{"@t":"2025-11-20T15:18:28.4502652Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":5.37,"Memory":3689}
+{"@t":"2025-11-20T15:18:38.4636826Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":8.09,"Memory":3773}
+{"@t":"2025-11-20T15:18:48.4905242Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":19.98,"Memory":3730}
+{"@t":"2025-11-20T15:18:58.5065031Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":20.47,"Memory":3716}
+{"@t":"2025-11-20T15:19:08.5185473Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":12.6,"Memory":3717}
+{"@t":"2025-11-20T15:19:18.5246680Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":35.12,"Memory":3705}
+{"@t":"2025-11-20T15:19:28.5419120Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":41.62,"Memory":3575}
+{"@t":"2025-11-20T15:19:38.5825900Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":16.09,"Memory":3559}
+{"@t":"2025-11-20T15:19:48.5902509Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":14.95,"Memory":3685}
+{"@t":"2025-11-20T15:19:58.6074428Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":14.01,"Memory":3706}
+{"@t":"2025-11-20T15:20:08.6196361Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":8.36,"Memory":3709}
+{"@t":"2025-11-20T15:20:18.6332832Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":7.59,"Memory":3710}
+{"@t":"2025-11-20T15:20:28.6412223Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":21.78,"Memory":3708}
+{"@t":"2025-11-20T15:20:38.6541093Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":6.18,"Memory":3712}
+{"@t":"2025-11-20T15:20:48.6691925Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":10.68,"Memory":3702}
+{"@t":"2025-11-20T15:20:58.6814565Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":33.91,"Memory":3590}
+{"@t":"2025-11-20T15:21:08.6962303Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":47.46,"Memory":3560}
+{"@t":"2025-11-20T15:21:18.7121111Z","@mt":"System Metrics: CPU={CPU}% | Available Memory={Memory}MB","CPU":34.95,"Memory":3519}
+{"@t":"2025-11-20T15:21:35.1638706Z","@mt":"ConsoleMonitor started successfully."}
+{"@t":"2025-11-20T15:21:40.7486293Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:21:40.7469499Z","CPU":0,"Memory":3642}
+{"@t":"2025-11-20T15:21:50.7758731Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:21:50.7758621Z","CPU":6.55,"Memory":3635}
+{"@t":"2025-11-20T15:22:00.7883761Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:22:00.7883661Z","CPU":7.96,"Memory":3635}
+{"@t":"2025-11-20T15:22:13.6162738Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:22:13.6162645Z","CPU":19.67,"Memory":3625}
+{"@t":"2025-11-20T15:22:23.6341801Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:22:23.6341736Z","CPU":35.9,"Memory":3520}
+{"@t":"2025-11-20T15:22:33.6508058Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:22:33.6507974Z","CPU":27.03,"Memory":3495}
+{"@t":"2025-11-20T15:22:43.6709724Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:22:43.6709621Z","CPU":22.26,"Memory":3569}
+{"@t":"2025-11-20T15:22:53.6821896Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:22:53.6821802Z","CPU":11.13,"Memory":3624}
+{"@t":"2025-11-20T15:23:03.6952387Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:23:03.6952290Z","CPU":9.33,"Memory":3627}
+{"@t":"2025-11-20T15:23:13.7080356Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:23:13.7080263Z","CPU":18.54,"Memory":3622}
+{"@t":"2025-11-20T15:23:23.7243623Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:23:23.7243542Z","CPU":23.41,"Memory":3629}
+{"@t":"2025-11-20T15:23:34.1195502Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:23:34.1195423Z","CPU":70.92,"Memory":3240}
+{"@t":"2025-11-20T15:23:44.3897057Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:23:44.3896958Z","CPU":46,"Memory":3520}
+{"@t":"2025-11-20T15:23:54.3992236Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:23:54.3992153Z","CPU":35.89,"Memory":3496}
+{"@t":"2025-11-20T15:24:04.4123473Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:24:04.4123362Z","CPU":35.75,"Memory":3498}
+{"@t":"2025-11-20T15:24:14.4289243Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:24:14.4289132Z","CPU":31.79,"Memory":3747}
+{"@t":"2025-11-20T15:24:24.4428493Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:24:24.4428359Z","CPU":7.32,"Memory":3732}
+{"@t":"2025-11-20T15:24:34.4543188Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:24:34.4543076Z","CPU":17.4,"Memory":3715}
+{"@t":"2025-11-20T15:24:44.4693733Z","@mt":"System Metrics: {@Timestamp} | CPU={CPU}% | AvailableMemory={Memory}MB","Timestamp":"2025-11-20T15:24:44.4693635Z","CPU":9.63,"Memory":3732}
